@@ -6,7 +6,7 @@ y61project important information
 Available in Google Play store by key: 13F-HR
 https://play.google.com/store/apps/details?id=com.y61project.Form13&hl=en&gl=US&pli=1
 
-The application designed based on Google Android and Microsoft Excel platforms.
+The application designed on Google Android and Microsoft Excel platforms.
 Primary databases are Google Firestore and Microsoft SQL.
 
 Please fill free contact us by email: vzzlk8@gmail.com
